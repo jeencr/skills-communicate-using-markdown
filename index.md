@@ -3,11 +3,12 @@
 '''javascript
 var myVar = "Hello, world!";
 '''
-[] wake morning
-[] go for jelly fishing
-[] feed gary
-[] go to work!!!!
-
+### to do list
+- [ ] wake in the morning
+- [ ] feed gary
+- [ ] go for jelly fishing
+- [ ] help out squidward in his music 
+- [ ] play with patrick
 
 
 
